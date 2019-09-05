@@ -1,0 +1,12 @@
+.no-link {
+    pointer-events: none;
+}
+
+.link {
+    pointer-events: all;
+    cursor: pointer;
+}
+
+.no-display {
+    display: none;
+}
